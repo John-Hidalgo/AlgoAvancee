@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="IAfficher">
+    <Position X="6.75" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAABAAA=</HashCode>
+      <FileName>IAfficher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Liste&lt;T&gt;">
+    <Position X="5.25" Y="4" Width="4" />
+    <TypeIdentifier>
+      <HashCode>BAACQAAABAAAAECggABAAAAAAAAAgAAABgAhAAAACEA=</HashCode>
+      <FileName>Liste.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AfficheMatch">
+    <Position X="0.5" Y="4.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAA=</HashCode>
+      <FileName>AfficheMatch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AfficheRonde">
+    <Position X="10" Y="4" Width="6.25" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAACAAAACACAAEAABAAAAAIAAAAAAAA=</HashCode>
+      <FileName>AfficheRonde.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Match">
+    <Position X="0.5" Y="10.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAIgAAAAAAAAACACCACAAAAAAAGCAALAAIBAIABAA=</HashCode>
+      <FileName>Match.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IRonde">
+    <Position X="11" Y="10.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AEAEIAAAAAAAEAAAwgCAgQAAoAQwEAAAIAAIgBAAAAg=</HashCode>
+      <FileName>IRonde.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RondeJouer">
+    <Position X="7" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RondeJouer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RondeOrd">
+    <Position X="6.5" Y="10.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAAAA=</HashCode>
+      <FileName>RondeOrd.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
